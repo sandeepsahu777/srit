@@ -13,6 +13,9 @@ public class printlastocc{
             break; 
             }
         }
+
+
+        //hello
         sc.close();
     }
 } 
